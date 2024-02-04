@@ -4,12 +4,6 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Setty92&theme=solarized_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Setty92&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Setty92&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Setty92&theme=solarized_dark)
 
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Setty92&theme=solarized_dark)
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Setty92&theme=solarized_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Setty92&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Setty92&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Setty92&theme=solarized_dark)
